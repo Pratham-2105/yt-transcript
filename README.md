@@ -30,7 +30,7 @@ one had a subtle greedy insight that cost me about four minutes...
 ## Install
 
 ```bash
-git clone https://github.com/<your-username>/yt-transcript.git
+git clone https://github.com/Pratham-2105/yt-transcript.git
 cd yt-transcript
 
 python -m venv .venv
